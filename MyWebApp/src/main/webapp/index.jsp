@@ -6,7 +6,8 @@
     </head>
 <body>
 <h2> 
-	<h2> WELCOM April and May DevOps Batch!!!!!!!!</h2>
+	<h2> WELCOM TO KURNOO DISTRICT </h2>
+        <h2> Integration with Maven-Jenkins and Deployed on Tomcat Server </h2>
   
 </body>
 </html>
