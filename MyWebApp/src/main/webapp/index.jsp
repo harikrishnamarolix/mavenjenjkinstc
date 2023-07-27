@@ -7,7 +7,7 @@
 <body>
 <h2> 
 	<h2> WELCOM TO KURNOO DISTRICT </h2>
-        <h2> Integration with Maven-Jenkins and Deployed on Tomcat Server </h2>
+        <h2> Integration with Maven-Jenkins and Deployed On Server </h2>
   
 </body>
 </html>
